@@ -1,0 +1,28 @@
+{
+  "name": "news-scraper",
+  "version": "1.0.0",
+  "description": "A news scraping application.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanOrlovsky/news-scraper-mongo.git"
+  },
+  "author": "Dan Orlovsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanOrlovsky/news-scraper-mongo/issues"
+  },
+  "homepage": "https://github.com/DanOrlovsky/news-scraper-mongo#readme",
+  "dependencies": {
+    "base-url": "^1.0.0",
+    "body-parser": "^1.18.2",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.0.1",
+    "request": "^2.83.0"
+  }
+}
