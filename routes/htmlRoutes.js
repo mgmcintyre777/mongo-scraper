@@ -1,10 +1,4 @@
-// ----------------------------------------------------
-// --- H T M L R O U T E S . J S ----------------------
-// ----------------------------------------------------
-// Routes that return webpages will go here
-// Dan Orlovsky
 
-// INCLUDES
 const request = require('request');
 const BASEURL = require('base-url');
 

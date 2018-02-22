@@ -1,9 +1,3 @@
-// ----------------------------------------------------
-// --- I N D E X . J S ----------------------------
-// ----------------------------------------------------
-// Article model for the mongo database
-// Daniel Orlovsky
-
 
 $(document).ready(() => {
     const saveArticleClick = (event) => {

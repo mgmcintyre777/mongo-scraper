@@ -1,9 +1,3 @@
-// ----------------------------------------------------
-// --- A P I R O U T E S . J S ------------------------
-// ----------------------------------------------------
-// API routes will go here, mostly returning JSON
-// Dan Orlovsky
-
 const cheerio = require('cheerio');
 const request = require('request');
 const db = require('../models');
